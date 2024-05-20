@@ -14,5 +14,5 @@
 <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <A href="https://github.com/yrinkin"> 김예린 </A> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<A href="https://github.com/SYEON10"> 강승연 </A> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<A href="https://github.com/SYEON10"> 강승연 </A> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <A href="https://github.com/Songein"> 송아인 </A>
